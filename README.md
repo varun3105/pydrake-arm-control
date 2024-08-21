@@ -12,12 +12,13 @@ Here comes a brief description about this project
 ## Installation
 1. Create a virtual environment 
 ```bash
-python -m venv env
+python3 -m venv env
 ```
 
 2. Source the virtual environment
 ```bash
-source env/bin/activate
+cd ~/path/to/env
+source bin/activate
 ```
 
 3. Install the requirements
